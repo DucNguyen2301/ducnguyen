@@ -186,6 +186,7 @@ const HomePage = () => {
                   </li>
                   <li>
                     <AiOutlineShoppingCart />
+                
                   </li>
                 </ul>
               </div>
